@@ -2,6 +2,13 @@
   "repo": "origene",
   "feeds": [
     {
+      "source": "https://www.origene.com/blog/rss/",
+      "feed_url": "https://www.origene.com/blog/rss/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://www.origene.com",
       "feed_url": "https://www.origene.com/blog/rss/",
       "title": "",
@@ -9,6 +16,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-07-25T15:00:33Z"
+  "post_count": 3,
+  "fetched": "2026-08-01T15:49:00Z"
 }
